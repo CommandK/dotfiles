@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = khuthadzo.masindi@gmail.com
+	name = Khuthadzo Masindi
